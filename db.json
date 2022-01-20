@@ -1,6 +1,7 @@
 {
   "BMW": "https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/home/720x720_New_7_Series.jpg.grp-transform/small/720x720_New_7_Series.jpg",
   "AUDI": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/new-audi-a3-sedan-113-1595373890.jpg?crop=0.889xw:1.00xh;0.0561xw,0&resize=640:*",
-  "NISSAN": "https://media.zigcdn.com/media/content/2021/Sep/210914-01_006-1200x609title_640x480.jpg"
+  "NISSAN": "https://media.zigcdn.com/media/content/2021/Sep/210914-01_006-1200x609title_640x480.jpg",
+  "status": "success"
   
 }
