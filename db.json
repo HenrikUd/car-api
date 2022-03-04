@@ -55,6 +55,14 @@
     {
       "name": "Volkswagen",
       "image": "https://uploads.volkswagen-newsroom.com/system/production/media/36745/images/e9ddbd0716c107caac46f3422c7e89165f6e287e/DB2021AU00471_blog.jpg?1624977238"     
+    },
+    {
+      "name": "Ford",
+      "image": "https://www.gannett-cdn.com/-mm-/d6eb73361ac5cc11901dc05d813fb63d11b43246/c=0-117-2304-1419/local/-/media/2018/01/19/USATODAY/USATODAY/636519786314510593-18-FUSI-SE-34FrntPassStaticRooftop-mj.jpg?width=660&height=373&fit=crop&format=pjpg&auto=webp"     
+    },
+    {
+      "name": "Honda",
+      "image": "https://www.honda.co.uk/content/dam/central/cars/Civic-5-door-2020/overview/Civic-5dr-close-contact-mobile.jpg/jcr:content/renditions/m_r.jpg"     
     }
     
   ]
