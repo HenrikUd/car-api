@@ -6,12 +6,57 @@
     },
     {
       "name": "BMW",
-      "image": "https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/home/720x720_New_7_Series.jpg.grp-transform/small/720x720_New_7_Series.jpg"     
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-750i-xdrive-252-1566180109.jpg?crop=0.817xw:1.00xh;0.0929xw,0&resize=640:*"     
     },
     {
       "name": "Nissan",
       "image": "https://media.zigcdn.com/media/content/2021/Sep/210914-01_006-1200x609title_640x480.jpg"     
+    },
+    {
+      "name": "Opel",
+      "image": "https://cdn.motor1.com/images/mgl/0oG13/s3/2022-opel-grandland-facelift.jpg"     
+    },
+    {
+      "name": "Chrysler",
+      "image": "https://www.retromotor.co.uk/wp-content/uploads/2020/09/chrysler_300c_mk1.jpeg"     
+    },
+    {
+      "name": "Fiat",
+      "image": "https://elektriautod.ee/wp-content/uploads/elektriauto-fiat-500e.jpg"     
+    },
+    {
+      "name": "Toyota",
+      "image": "https://cdni.autocarindia.com/utils/imageresizer.ashx?n=http://cms.haymarketindia.net/model/uploads/modelimages/CamryModelImage.jpg"     
+    },
+    {
+      "name": "Renault",
+      "image": "https://carsalesbase.com/wp-content/uploads/2019/11/Renault_Captur-auto-sales-statistics-Europe.jpg"     
+    },
+    {
+      "name": "Skoda",
+      "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Skoda/Kushaq/8481/1624871742434/front-left-side-47.jpg"     
+    },
+    {
+      "name": "Mercedes",
+      "image": "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/3ACLASS-02_i.jpg"     
+    },
+    {
+      "name": "Peugeot",
+      "image": "https://www.focus2move.com/wp-content/uploads/2019/03/Peugeot-508_Sport_Engineered_Concept-2019.jpg"     
+    },
+    {
+      "name": "Subaru",
+      "image": "https://www.ccarprice.com/products/Subaru_WRX_STI_2021_Price.jpg"     
+    },
+    {
+      "name": "Volvo",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2022-vilvo-xc60-mmp-1-1615394783.jpg?crop=0.764xw:1.00xh;0.119xw,0&resize=640:*"     
+    },
+    {
+      "name": "Volkswagen",
+      "image": "https://uploads.volkswagen-newsroom.com/system/production/media/36745/images/e9ddbd0716c107caac46f3422c7e89165f6e287e/DB2021AU00471_blog.jpg?1624977238"     
     }
+    
   ]
   
 }
